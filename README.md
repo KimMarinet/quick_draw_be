@@ -15,3 +15,4 @@
 
 #### ✅ Simple 코드 리뷰 이미지
 ![Class](https://github.com/KimMarinet/quick_draw_be/blob/master/img/Class%20Diagram.png)
+<img src="https://github.com/KimMarinet/quick_draw_be/blob/master/img/uploads.png" width="200" height="400"/>
