@@ -13,3 +13,5 @@
 - **PredictService** : 외부 프로그램(Python)을 실행시키고 결과 값을 받아옵니다
 - **TruncateService** : 매일 자정을 기준으로 저장한 모든 이미지 파일 삭제 -> 서버 메모리 부족 현상을 방지
 
+#### ✅ Simple 코드 리뷰 이미지
+![Class](https://github.com/KimMarinet/quick_draw_be/blob/master/Class%20Diagram.png)
